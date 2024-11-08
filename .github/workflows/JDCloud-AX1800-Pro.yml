@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 ###############手动修改##############
-name: JDCloud-AX1800-Pro_AX6600-lede
+name: JDCloud-AX1800-Pro-lede
 
 on:
   repository_dispatch:
